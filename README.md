@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://github.com/NiksonDiniz/Dev.finance/blob/main/assets/logo.svg" width="220px" />
 </h1>
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="" width="100%">
+  <img alt="dev.finances" src="https://github.com/NiksonDiniz/Dev.finance/blob/main/assets/gif_Dev.finance.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
